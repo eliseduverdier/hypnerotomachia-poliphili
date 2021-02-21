@@ -1,0 +1,75 @@
+html, body, .container {
+    margin: 0;
+    width: 100%;
+}
+
+body {
+    background: white;
+    font-family: 'Space Mono', monospace;
+    font-size: 24px;
+    line-height: 1.7em;
+    color: black;
+    text-align: center;
+    margin: 0;
+}
+
+a {
+    color: #00cf88;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/*********** content *************/
+main {
+    margin: 100px 20px;
+    font-style: italic;
+}
+
+.title {
+    font-weight: 700;
+    opacity: 1;
+    transition: 3s opacity ease-in;
+}
+
+.title:hover {
+    opacity: 0;
+    transition: 3s opacity ease-in-out;
+}
+
+.reading-nav {
+    text-align: center;
+    background: black;
+    color: white;
+}
+
+/*********** nav *************/
+nav {
+    width: 100%;
+    margin: 0;
+    padding: 10px 0 30px 0;
+    color: #00cf88;
+    top: 0;
+    position: absolute;
+    text-align: center;
+    z-index: 1;
+    background: black;
+    height: 30px;
+}
+nav a {
+    font-size: 56px;
+}
+nav:hover div {
+    transition: 10s;
+    transform: rotate(1080deg);
+}
+
+/******* FOOTER ******************/
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #00cf88;
+}
+footer a {
+    color: white;
+}
