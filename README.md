@@ -10,3 +10,8 @@ re-edited today in NextJS.
 * [Scanned book](http://architectura.cesr.univ-tours.fr/Traite/Images/LES1358Index.asp)
 * [Wikipedia](https://en.wikipedia.org/wiki/Hypnerotomachia_Poliphili)
 
+## TODO
+* Footer component with parameter
+* Install less
+* Text in nosql database
+* imported automatically

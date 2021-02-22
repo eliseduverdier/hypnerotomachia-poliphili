@@ -19,57 +19,23 @@ a {
     font-weight: bold;
 }
 
-/*********** content *************/
-main {
-    margin: 100px 20px;
+/*********** layout *************/
+h1, h2, h3, h4, h5 {
     font-style: italic;
 }
-
-.title {
-    font-weight: 700;
-    opacity: 1;
-    transition: 3s opacity ease-in;
+main {
+    margin: 100px 20px;
 }
 
-.title:hover {
-    opacity: 0;
-    transition: 3s opacity ease-in-out;
-}
-
-.reading-nav {
-    text-align: center;
-    background: black;
-    color: white;
-}
-
-/*********** nav *************/
-nav {
-    width: 100%;
-    margin: 0;
-    padding: 10px 0 30px 0;
-    color: #00cf88;
-    top: 0;
-    position: absolute;
-    text-align: center;
-    z-index: 1;
-    background: black;
-    height: 30px;
-}
-nav a {
-    font-size: 56px;
-}
-nav:hover div {
-    transition: 10s;
-    transform: rotate(1080deg);
-}
-
-/******* FOOTER ******************/
-footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background: #00cf88;
-}
-footer a {
-    color: white;
+/***** tests *****/
+.shadow1 {
+    position:absolute;
+    top:40px; left: 400px;
+    opacity: 5;
+    width: 400px;
+    height: 500px;
+    background: radial-gradient(circle, 
+        rgba(255,216,0,1) 0%, 
+        rgba(255,255,255,0) 49%
+    );
 }

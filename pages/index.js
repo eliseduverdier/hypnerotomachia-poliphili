@@ -6,22 +6,22 @@ export default function Home() {
     return <Layout>
         <div className="title">
             <h1>
-                <em>Hypnerotomachia Poliphili</em>
+                Hypnerotomachia Poliphili
             </h1>
         </div>
 
         <span>ou</span>
 
-        <p>
+        <h2>
             Le songe de poliphile
-        </p>
+        </h2>
 
         <p>
             <Link href="/about">?</Link>
         </p>
 
         <p>
-            <Link href="/book/001">read</Link>
+            <Link href="/book/000">read</Link>
         </p>
     </Layout>
 }

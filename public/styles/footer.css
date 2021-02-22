@@ -1,0 +1,9 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #00cf88;
+}
+footer a {
+    color: white;
+}
