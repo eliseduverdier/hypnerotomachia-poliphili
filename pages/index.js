@@ -1,9 +1,8 @@
-import Head from 'next/head'
 import Link from 'next/link'
 import Layout from '../components/layout'
 
 export default function Home() {
-    return <Layout>
+    return <Layout bookPages>
         <div className="title">
             <h1>
                 Hypnerotomachia Poliphili

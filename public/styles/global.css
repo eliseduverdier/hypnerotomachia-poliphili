@@ -14,7 +14,7 @@ body {
 }
 
 a {
-    color: #00cf88;
+    color: var(--color-primary);
     text-decoration: none;
     font-weight: bold;
 }
@@ -25,17 +25,4 @@ h1, h2, h3, h4, h5 {
 }
 main {
     margin: 100px 20px;
-}
-
-/***** tests *****/
-.shadow1 {
-    position:absolute;
-    top:40px; left: 400px;
-    opacity: 5;
-    width: 400px;
-    height: 500px;
-    background: radial-gradient(circle, 
-        rgba(255,216,0,1) 0%, 
-        rgba(255,255,255,0) 49%
-    );
 }

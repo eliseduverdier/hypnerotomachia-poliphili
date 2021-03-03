@@ -1,0 +1,12 @@
+:root{
+    /* SIZES */
+    --light: white;
+    /* FONTS */
+    --text-primary: white;
+    --text-secondary: white;
+    /* COLORS */
+    --color-light: white;
+    --color-dark: black;
+    --color-primary: #00cf88;
+    --color-secondary: #dcff40;
+  }

@@ -6,7 +6,7 @@ export default function Footer({isBook}) {
         {isBook ?(
             <>
             <Link href="/book/000"><a className="link"> &larr; </a></Link>
-                &nbsp;~&nbsp;
+                &nbsp;[<Link href="/book/toc"><a className="link"> &rarr; </a></Link>]&nbsp;
             <Link href="/book/001"><a className="link"> &rarr; </a></Link>
 
             </>
