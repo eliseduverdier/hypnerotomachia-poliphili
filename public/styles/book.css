@@ -18,13 +18,14 @@
     margin: 0 auto;
 }
 .shadow001 {
+    position: absolute;
     top:-10px; 
-    left: 55%;
+    left: 25%;
     width: 800px;
     height: 800px;
     background: radial-gradient(circle, 
         rgba(255,216,0,1) 0%, 
-        rgba(255,255,255,0) 49%
+        rgba(16, 197, 200, 0) 49%
     );
 }
 

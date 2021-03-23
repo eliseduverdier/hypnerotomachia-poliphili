@@ -1,14 +1,13 @@
 {
-  "name": "learn-starter",
-  "version": "0.1.0",
+  "name": "hypnerotomachia-poliphili",
+  "version": "0.1",
   "private": true,
   "scripts": {
-    "dev": "NODE_OPTIONS='--inspect' next dev",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
-    "fs": "^0.0.1-security",
     "less": "^4.1.1",
     "next": "^10.0.0",
     "path": "^0.12.7",

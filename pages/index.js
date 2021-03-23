@@ -17,11 +17,11 @@ export default function Home() {
         </h2>
 
         <p>
-            <Link href="/about">?</Link>
+            <Link href="/about">à propos</Link>
         </p>
 
         <p>
-            <Link href="/book/000">read</Link>
+            <Link href="/book/000">lire</Link>
         </p>
     </Layout>
 }

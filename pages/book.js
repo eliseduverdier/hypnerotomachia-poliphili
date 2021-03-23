@@ -1,5 +1,3 @@
-import Image from 'next/image'
-import Link from "next/link"
 import Layout from '../components/layout'
 
 import { getBookPagesData } from '../lib/bookPages'
@@ -13,16 +11,16 @@ export async function getStaticProps() {
   }
 }
 
-export default function tableOfContents({bookPagesData}) {
+export default function book({bookPagesData}) {
   return <Layout isBook>
     <ul>
-        {bookPagesData.map(({ id, title }) => (
-            <li key={id}>
-              {title}
-              <br />
-              {id}
-            </li>
-          ))}
-        </ul>
+      {bookPagesData.map( page => (
+        <li>
+          <a href={`/book/${page.id}`}>
+            [{page.id}]
+          </a> 
+        </li> 
+      ))}
+    </ul>
   </Layout>
 }
