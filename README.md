@@ -7,10 +7,14 @@ re-edited in Next.js.
 <img src="public/images/book/f001.jpg" width="400px">
 
 ## how to use
-```
-npm install
-npm run dev
-```
+* Connect to vagrant and docker
+  * `vagrant up --provision && vagrant ssh`
+  * (will fail first time because docker containers are not yet installed, so run `docker-compose build`)
+* `dup` (alias for `docker-compose up -d`)
+* start server (`dex` is alias of `docker exec`)
+  * `dex web npm install`
+  * `dex web npm run dev`
+
 And go to localhost:3000
 
 ## sources
