@@ -2,17 +2,28 @@ nav {
     width: 100%;
     margin: 0;
     padding: 10px 0 30px 0;
-    color: var(--color-primary);
-    top: 0;
-    position: absolute;
+    top: 10px;
+    position: fixed;
     text-align: center;
     z-index: 1;
-    background: var(--color-dark);
-    height: 30px;
 }
-nav a {
-    font-size: 56px;
+nav h1 a {
+    color: var(--color-dark);
+    font-weight: 100;
 }
+nav h1 {
+    display: inline-block;
+    font-size: 36px;
+    border: 2px solid var(--color-dark);
+    background-color: var(--color-light--transparent);
+    border-radius: 100%;
+}
+@media only screen and (max-width: 600px) {
+    nav h1 {
+      width: 300px;
+    }
+  }
+  
 /* nav:hover div {
     transition: 10s;
     transform: rotate(1080deg);

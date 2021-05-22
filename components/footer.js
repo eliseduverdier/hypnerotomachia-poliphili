@@ -10,14 +10,12 @@ export default function Footer({isBook, currentPage}) {
 
     return (
       <footer>
+        <div className="footer-shadow"></div>
+        <div className="footer-top">
          {isBook ? (
         <>
           <Link href={`/book/${prevPage}`}>
             <a className="link"> &larr; </a>
-          </Link>
-          &nbsp;
-          <Link href="/book">
-            <a className="link"> &equiv; </a>
           </Link>
           &nbsp;
           <Link href={`/book/${nextPage}`}>
@@ -25,8 +23,9 @@ export default function Footer({isBook, currentPage}) {
           </Link>
         </>
         ):(
-            <Link href="/book/000"><a className="link">read</a></Link>
+            <Link href="/book/0"><a className="link">read</a></Link>
         )}
+        </div>
       </footer>
     );
 }

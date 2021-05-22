@@ -2,8 +2,9 @@ import Link from "next/link"
 
 export default function Nav({children}) {
     return <nav>
-        <div>
-            <Link href="/">❦</Link>
-        </div>
+        <h1>
+            <Link href="/">hypnerotomachia poliphili</Link>
+            {/* ❦ */}
+        </h1>
     </nav>
 }

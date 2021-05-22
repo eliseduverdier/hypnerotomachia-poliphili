@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 211.66666 158.75"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="web.svg"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)">
+  <defs
+     id="defs2">
+    <rect
+       x="215.3858"
+       y="201.14978"
+       width="30.844725"
+       height="61.689445"
+       id="rect954" />
+    <rect
+       x="167.66876"
+       y="145.78746"
+       width="30.053835"
+       height="67.752937"
+       id="rect944" />
+    <linearGradient
+       id="linearGradient940"
+       inkscape:collect="always">
+      <stop
+         id="stop936"
+         offset="0"
+         style="stop-color:#f2e771;stop-opacity:1" />
+      <stop
+         id="stop938"
+         offset="1"
+         style="stop-color:#fa9271;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient918">
+      <stop
+         style="stop-color:#37c871;stop-opacity:0.81818181"
+         offset="0"
+         id="stop914" />
+      <stop
+         style="stop-color:#37c871;stop-opacity:0;"
+         offset="1"
+         id="stop916" />
+    </linearGradient>
+    <rect
+       x="6.3651619"
+       y="44.845459"
+       width="147.55603"
+       height="116.59819"
+       id="rect874" />
+    <rect
+       x="12.440999"
+       y="40.505577"
+       width="144.66277"
+       height="109.65438"
+       id="rect856" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient940"
+       id="radialGradient922"
+       cx="46.003452"
+       cy="115.07455"
+       fx="46.003452"
+       fy="115.07455"
+       r="57.866814"
+       gradientTransform="matrix(1.5990888,0,0,1.2574032,-27.955603,-260.69234)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient918"
+       id="radialGradient930"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2095672,0,0,1.1571754,-61.048689,-87.28979)"
+       cx="46.003452"
+       cy="115.07455"
+       fx="46.003452"
+       fy="115.07455"
+       r="57.866814" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient918"
+       id="radialGradient934"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2095672,0,0,1.1571754,-67.639443,-109.96198)"
+       cx="46.003452"
+       cy="115.07455"
+       fx="46.003452"
+       fy="115.07455"
+       r="57.866814" />
+  </defs>
+  <sodipodi:namedview
+     units="px"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0036157"
+     inkscape:cx="479.76241"
+     inkscape:cy="342.73919"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1574"
+     inkscape:window-height="859"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:none"
+     inkscape:label="hide"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <ellipse
+       style="opacity:0.760494;fill:url(#radialGradient922);fill-opacity:1;stroke:none;stroke-width:0.718888;stroke-opacity:1"
+       id="path912"
+       cx="45.608006"
+       cy="-115.99725"
+       rx="92.534172"
+       ry="72.761917"
+       transform="scale(1,-1)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg">
+    <rect
+       style="fill:#f4eed7;stroke:#000000;stroke-width:0.527409"
+       id="rect846"
+       width="209.93916"
+       height="176.90466"
+       x="0.96544373"
+       y="1.0168345" />
+    <g
+       transform="translate(-0.26363013,-24.781232)"
+       id="g1465">
+      <rect
+         style="fill:#37c871;fill-opacity:1;stroke:#000000;stroke-width:0.429369"
+         id="rect878"
+         width="21.666513"
+         height="12.011791"
+         x="173.57475"
+         y="154.00046" />
+      <rect
+         y="152.04979"
+         x="172.01326"
+         height="12.011791"
+         width="21.666513"
+         id="rect848"
+         style="fill:#37c871;fill-opacity:1;stroke:#000000;stroke-width:0.429369" />
+      <text
+         id="text852"
+         y="160.78702"
+         x="174.67439"
+         style="font-style:normal;font-weight:normal;font-size:8.65163px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.216291"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.65163px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.216291"
+           y="160.78702"
+           x="174.67439"
+           id="tspan850"
+           sodipodi:role="line">← →</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text854"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect856);fill:#000000;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="43.109505"
+       y="63.651615"
+       id="text862"><tspan
+         sodipodi:role="line"
+         id="tspan860"
+         x="43.109505"
+         y="63.651615"
+         style="stroke-width:0.264583" /></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.88081px;line-height:1.25;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#003800;fill-opacity:1;stroke:none;stroke-width:0.222021"
+       x="26.076752"
+       y="25.801146"
+       id="text835"><tspan
+         sodipodi:role="line"
+         x="26.076752"
+         y="25.801146"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.88081px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#003800;fill-opacity:1;stroke-width:0.222021"
+         id="tspan837">hypnerotomachia poliphili</tspan></text>
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+       id="path843"
+       cx="93.596817"
+       cy="22.712055"
+       rx="67.84684"
+       ry="6.220499" />
+    <text
+       xml:space="preserve"
+       id="text872"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:0.4;font-family:sans-serif;white-space:pre;shape-inside:url(#rect874);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(1,0.15800952,0,1,1.1573022,-4.2145471)"><tspan
+         x="6.3652344"
+         y="50.003266"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Leonardus Crassus Veronensis Guido Illustrissimo Duci Urbini Salutem </tspan></tspan><tspan
+         x="6.3652344"
+         y="54.962407"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Plurimam Dicit.
+</tspan></tspan><tspan
+         x="6.3652344"
+         y="59.921547"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
+</tspan></tspan><tspan
+         x="6.3652344"
+         y="64.880688"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">CUM semper Dux invictissime ob singulares virtutes et famam tui </tspan></tspan><tspan
+         x="6.3652344"
+         y="69.839829"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">nominis tecolui et observavi, tum maxime ex quo frater meus tuis </tspan></tspan><tspan
+         x="6.3652344"
+         y="74.798966"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">auspiciis in Bibienae obsidionemilitavit, quicquid enim tunc per te </tspan></tspan><tspan
+         x="6.3652344"
+         y="79.758103"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">in eum collatum fuit, id autem multum fuissesaepe memorat </tspan></tspan><tspan
+         x="6.3652344"
+         y="84.71724"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">benignitatem et humanitatem in se tuam referens, id totum adCrassos </tspan></tspan><tspan
+         x="6.3652344"
+         y="89.676377"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">omnes pertinere arbitrati sumus, et quod unus tulit, id omnes tibi </tspan></tspan><tspan
+         x="6.3652344"
+         y="94.635514"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">acceptumferimus, nec iam ei concedimus, ut magis tuus sit, quam nos </tspan></tspan><tspan
+         x="6.3652344"
+         y="99.594651"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">omnes sumus. Sedfratres mei occasionem expectant causa tua non modo </tspan></tspan><tspan
+         x="6.3652344"
+         y="104.55379"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">sua omnia, sed vitam etiamexponendi. Ego autem, qui pro virili mea, </tspan></tspan><tspan
+         x="6.3652344"
+         y="109.51292"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">quonam pacto me tibi aperiam saepe cogito, cogitaboque, donec </tspan></tspan><tspan
+         x="6.3652344"
+         y="114.47206"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">perfecero, nunc in voti mei spem venio aliquam. Nam, cum sciamtecum </tspan></tspan><tspan
+         x="6.3652344"
+         y="119.4312"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">non fortunae bonis plus agi posse, quam aquis (ut fertur) cum mari, </tspan></tspan><tspan
+         x="6.3652344"
+         y="124.39034"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">solasqueapud te literas et virtutes posse, literis aditum ad te </tspan></tspan><tspan
+         x="6.3652344"
+         y="129.34947"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">tanquam vadum tentavi. Venitnuper in manus meas novum quoddam et </tspan></tspan><tspan
+         x="6.3652344"
+         y="134.30861"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">admirandum Poliphili opus (id enim nomenlibro inditum est) quod ne </tspan></tspan><tspan
+         x="6.3652344"
+         y="139.26775"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">in tenebris diutius lateret, sed mortalibus mature prodesset, </tspan></tspan><tspan
+         x="6.3652344"
+         y="144.22688"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">sumptibus meis imprimendum et publicandum curavi. Verum ne liber </tspan></tspan><tspan
+         x="6.3652344"
+         y="149.18602"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">iste parenteorbatus veluti pupillus sine tutela, aut patrocinio </tspan></tspan><tspan
+         x="6.3652344"
+         y="154.14516"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">aliquo esse videretur te patronumpraesentem delegimus, in cuius </tspan></tspan><tspan
+         x="6.3652344"
+         y="159.10429"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">nomen audaculus prodiret, quo, ut ego amoris nunc etobservantiae in </tspan></tspan><tspan
+         style="visibility:hidden"
+         x="6.3652344"
+         y="166.60092"><tspan
+           dx="0 2.1566312 2.1566312 2.156631 2.1566315 2.1566315 2.1566305 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566296 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566277 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566238 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566162 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566467 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">te meae ministro et nuncio, sic tu ad studia, et multiplicem doctrinamtuam socio saepe utereris. Tanta est enim in eo non modo scientia, sed copia, ut cumhunc videris, non magis omnes veterum libros, quam naturae ipsius occultas resvidisse videaris. Res una in eo miranda est, quod cum nostrati lingua loquatur, non minus ad eum cognoscendum opus sit graeca et romana, quam tusca et vernacula.
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="6.3652344"
+         y="171.56006"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="6.3652344"
+         y="176.5192"><tspan
+           dx="0 2.1566312 2.1566312 2.156631 2.1566315 2.1566315 2.1566305 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566296 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566277 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566238 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566162 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566315 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566162 2.1566467 2.1566467 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 0 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 0 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1566162 2.1566162 2.1566162 2.1566772 2.1565552 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 0 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1566162 2.1567383 2.1566162"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Cogitavit enim vir sapientissimus, si ita loqueretur, unam esse viam, et rationem, qua nullus, quin aliquid disceret veniam negligentiae suae praetendere posset, sed tamen ita se temperavit, ut nisi, qui doctissimus foret in doctrinae suae sacrarium penetrare non posset, qui vero non doctus accederet non desperaret tamen. Illud accedit, quod si quae res natura sua difficiles essent, amoenitate quadam tamquam reserato omnis generis florum viridario oratione suavi declarantur, et proferuntur figurisque et imaginibus oculis subiectae patent et referuntur. Non hic res sunt vulgo expositae et triviis </tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="shadows">
+    <ellipse
+       ry="66.962051"
+       rx="69.993797"
+       cy="45.871639"
+       cx="-5.4044209"
+       id="ellipse928"
+       style="fill:url(#radialGradient930);fill-opacity:1;stroke:none;stroke-width:0.599794;stroke-opacity:1" />
+    <ellipse
+       ry="66.962051"
+       rx="69.993797"
+       cy="23.199448"
+       cx="-11.995174"
+       id="ellipse932"
+       style="opacity:0.706173;fill:url(#radialGradient934);fill-opacity:1;stroke:none;stroke-width:0.599794;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       id="text942"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect944);fill:#000000;fill-opacity:1;stroke:none;"><tspan
+         style="visibility:hidden"
+         x="167.66797"
+         y="223.19648"><tspan
+           dx="0 5.8910947 6.3045049 6.4285269 6.6972446 6.3665161 4.5268421 6.5938911 6.6972427 5.5190277 3.7206917 7.4000397 4.5268402 6.3665161 5.5190277 5.5190277 6.6972427 5.5190201 3.7206955 7.2346802 6.3045044 4.5268402 6.4285278 6.6972351 6.3045044 6.6972504 5.5190277 2.9145355 5.5190277 3.7206879 8.206192 6.6972504 2.9145355 6.5939026 6.4285278 3.7206879 4.4648285 2.9145355 2.9145508 6.6972351 5.5190277 4.1754456 4.5268402 2.9145355 5.5190277 5.5190277 2.9145355 10.29393 6.4285278 3.7206726 8.164856 6.6972351 5.519043 2.9145203 3.7207031 7.7514343 4.5268555 6.5938721 2.9145508 6.6972351 2.9145508 3.7207031 7.2346802 6.3665161 2.9145203 6.6972656 4.1754456 6.3045044 10.293884 3.7207031 6.3871765 2.9145508 6.6972351 4.5268555 2.9145508 10.293915 6.3665161 10.293884 3.7207031 8.164856 2.9145508 5.5190125 2.9145508 4.1754456 3.844696">Leonardus Crassus Veronensis Guido Illustrissimo Duci Urbini Salutem Plurimam Dicit.
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="167.66797"
+         y="236.42561"><tspan>
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="167.66797"
+         y="249.65473"><tspan
+           dx="0 7.4000416 7.75144 8.9296589 3.7206917 5.5190258 6.3045044 10.293911 6.593895 6.3045044 4.5268402 3.7206879 8.164856 6.6972427 6.2631607 3.7206955 2.9145355 6.6972504 6.2631607 2.9145432 5.5190201 4.1754456 2.9145432 5.5190201 5.5190277 2.9145355 10.293915 6.3045044 3.7207031 6.4285278 6.5938873 3.7206879 5.5190277 2.9145355 6.6972504 6.5938873 6.6972504 2.9145355 6.3665161 4.5268402 6.3045044 5.5190277 3.7206879 6.2631683 2.9145355 4.5268402 4.1754456 6.6972351 4.1754456 6.3045044 5.519043 3.7206726 6.3045044 4.1754456 3.7207031 3.7206726 6.3665161 10.293915 6.3665161 10.293915 3.7207031 4.1754456 6.6972351 2.9145508 3.7206726 6.6972656 6.4285278 10.293915 2.9145203 6.6972656 2.9145203 5.519043 3.7206726 4.1754456 6.3045044 5.519043 6.4285278 2.9145203 6.6972656 2.9145203 3.7207031 6.3045044 4.1754456 3.7207031 6.4285278 6.5938721 5.519043 6.3045044 4.526825 6.2631836 6.3665161 6.2631531 2.9145508 3.844696 3.7207031 4.1754456 6.6972046 10.293945 3.7207031 10.293884 6.3665161 6.2631836 2.9145508 10.293884 6.3045044 3.7207031 6.3045044 6.2631836 3.7207031 6.5938721 6.6972046 6.4285278 3.7207031 3.7207031 4.5268555 6.3665161 4.175415 6.3045044 4.5268555 3.7207031 10.293884 6.3045044 6.6972656 5.519043 3.7207031 4.175415 6.6972656 2.9144897 5.519043 3.7207031 6.3665161 6.6972656 5.5189819 6.5939331 2.9144897 5.519043 2.9145508 2.9145508 5.519043 3.7206421 2.9145508 6.6972656 3.7207031 7.2553101 2.9145508 6.5939331 2.9144897 6.3045044 6.6972656 6.3665161 6.3045044 3.7207031 6.4285278 6.5938721 5.519043 2.9145508 6.5938721 2.9145508 6.4285278 6.6972656 6.3045044 10.293884 2.9145508 2.9145508 2.9145508 4.175415 6.3665161 6.2631836 2.9145508 4.175415 3.8447266 3.7207031 6.5938721 6.6972656 2.9144897 5.519043 6.5938721 6.6972656 2.9145508 6.5938721 3.7207031 6.3045044 6.6972656 2.9145508 10.293884 3.7207031 4.175415 6.6972656 6.6972656 5.5189819 3.7207642 6.5938721 6.3044434 4.5268555 3.7207031 4.175415 6.3045654 3.7207031 2.9145508 6.6971436 3.7207031 6.3045654 6.6972656 10.293823 3.7207031 5.519043 6.4285889 2.9145508 2.9144287 6.3665771 4.175415 6.6972656 10.293945 3.7207031 3.7207031 6.6971436 2.9145508 4.175415 3.8447266 3.7207031 2.9145508 6.5938721 3.7207031 6.3665771 6.6972656 4.175415 6.3044434 10.293945 3.7207031 10.293945 6.6972656 2.9144287 4.1755371 6.6971436 10.293945 3.7207031 3.7207031 6.6972656 2.9145508 5.519043 5.5189209 6.3045654 5.519043 6.3664551 6.3045654 6.5938721 6.3045654 3.7205811 10.293945 6.3045654 10.293823 6.4285889 4.5268555 6.3664551 4.175415 3.7207031 6.5939941 6.3044434 6.6972656 2.9145508 6.5938721 6.6972656 2.9145508 4.175415 6.3664551 4.1755371 6.3044434 10.293945 3.7207031 6.3044434 4.1755371 3.7205811 6.6972656 6.6972656 10.293945 6.3664551 6.6972656 2.9145508 4.175415 6.3665771 4.175415 6.3045654 10.293823 3.7207031 2.9145508 6.6972656 3.7207031 5.519043 6.3044434 3.7207031 4.175415 6.6972656 6.3665771 10.293823 3.7207031 4.5268555 6.3045654 3.7207031 6.3044434 4.5268555 6.3044434 6.6972656 5.519043 3.8447266 3.7207031 2.9145508 6.5938721 3.7207031 4.175415 6.4285889 4.175415 6.6972656 10.293823 3.7207031 6.3665771 6.5938721 7.4000244 4.5268555 6.3664551 5.519043 5.519043 6.4285889 5.519043 3.7205811 6.4285889 10.293945 6.6972656 6.3044434 5.519043 3.7207031 6.5938721 6.3044434 4.5268555 4.1755371 2.9144287 6.6972656 6.3045654 4.5268555 6.3044434 3.7207031 6.3665771 4.5267334 6.5939941 2.9145508 4.175415 4.5268555 6.3664551 4.175415 2.9145508 3.7207031 5.519043 6.6972656 10.293945 6.6971436 5.519043 3.8447266 3.7207031 6.3045654 4.175415 3.7207031 6.5938721 6.6972656 6.4284668 6.5938721 3.7207031 6.6972656 6.6972656 6.6972656 5.519043 3.7207031 4.175415 6.6972656 2.9144287 2.9145508 4.1755371 3.8446045 3.7207031 2.9145508 6.5939941 3.7207031 6.4284668 10.293945 6.6972656 6.3044434 5.519043 3.7207031 4.175293 2.9145508 6.5939941 2.9145508 3.7207031 6.3664551 5.519043 5.519043 6.3044434 6.5939941 4.175293 6.6972656 10.293945 3.7207031 6.3044434 4.5268555 2.9145508 10.293945 6.6972656 5.519043 3.8447266 3.7207031 6.6972656 6.3044434 5.519043 3.7207031 2.9145508 6.3664551 10.293945 3.7207031 6.3044434 2.9145508 3.7207031 5.519043 6.4284668 6.6972656 5.519043 6.3044434 6.5939941 2.9145508 10.293945 6.6972656 5.519043 3.8447266 3.7207031 6.6972656 4.175293 3.7207031 10.293945 6.3664551 6.5939941 2.9145508 5.519043 3.7207031 4.175293 6.6972656 6.6972656 5.519043 3.7207031 5.519043 2.9145508 4.175293 3.8447266 3.7207031 6.5939941 6.6972656 6.3664551 10.293945 3.7207031 6.6972656 6.4284668 5.519043 3.7207031 6.4284668 10.293945 6.6972656 6.3044434 5.519043 3.7207031 5.519043 6.6972656 10.293945 6.6972656 5.519043 3.8447266 3.7207031 7.2346191 6.3044434 6.5939941 3.7207031 4.5268555 6.3664551 4.175293 4.5268555 6.3046875 5.519043 3.720459 10.293945 6.3046875 2.9145508 3.7207031 6.4284668 5.519043 5.519043 6.3664551 5.519043 2.9145508 6.4284668 6.6972656 6.3044434 10.293945 3.7207031 6.3044434 6.2631836 6.5939941 6.3044434 5.519043 4.1755371 6.3664551 6.6972656 4.175293 3.7207031 5.519043 6.3664551 6.6972656 5.519043 6.3666992 3.720459 4.1755371 6.6972656 6.3664551 3.7207031 6.6972656 6.4284668 6.6972656 3.7207031 10.293945 6.4284668 6.5939941 6.4284668 3.7207031 5.519043 6.6972656 6.3664551 3.7207031 6.4284668 10.293945 6.6972656 2.9145508 6.3664551 3.8447266 3.7207031 5.519043 6.3044434 6.5939941 3.7207031 6.2631836 2.9145508 4.175293 6.3666992 10.293945 3.7207031 6.3044434 4.175293 2.9145508 6.3666992 10.293945 6.3044434 6.2631836 6.59375 6.4287109 6.6970215 6.3046875 6.6972656 6.59375 2.9145508 3.8447266 3.7207031 6.6972656 6.5939941 6.4284668 3.7207031 6.3664551 6.6972656 4.175293 6.3046875 10.293945 3.8447266 3.7207031 6.59375 6.6972656 2.9145508 3.7207031 6.5939941 4.5266113 6.4287109 3.7207031 6.2631836 2.9145508 4.5266113 2.9145508 2.9145508 2.9145508 3.7207031 10.293945 6.3044434 6.3666992 3.8447266 3.7207031 6.59375 6.6972656 6.4284668 6.6972656 6.3664551 10.293945 3.7207031 6.5939941 6.3664551 5.519043 4.1755371 6.4284668 3.7207031 10.293945 6.3044434 3.7207031 4.1755371 2.9145508 6.59375 2.9145508 3.7207031 6.3664551 6.5939941 6.3044434 4.5268555 2.9145508 6.3664551 10.293945 3.7207031 5.519043 6.3664551 6.3044434 6.5939941 6.3044434 3.7207031 5.519043 6.4284668 6.5939941 2.9145508 4.1755371 6.4284668 3.8447266 3.7207031 5.519043 6.4284668 6.5939941 2.9143066 4.1755371 6.3664551 6.5939941 6.4284668 6.5939941 6.6972656 6.3044434 3.8447266 3.7207031 6.59375 6.4287109 6.6972656 6.3044434 5.519043 3.7207031 6.59375 6.3046875 4.5266113 3.7207031 6.3046875 5.519043 6.3044434 4.5268555 6.4284668 3.8447266 3.7207031 6.6972656 6.6972656 6.6972656 5.519043 3.7207031 2.9145508 6.6970215 3.7207031 6.2631836 6.4287109 4.175293 2.9145508 3.7207031 10.293945 6.3044434 2.9145508 3.7207031 5.519043 6.5939941 6.3044434 10.293945 3.7207031 6.2631836 6.3044434 6.6972656 2.9145508 6.4284668 3.7207031 6.3664551 2.9145508 2.9145508 6.5939941 6.6972656 6.3664551 10.293945 3.8447266 3.7207031 7.916748 6.3664551 10.293945 3.8447266 3.7207031 5.519043 6.6972656 10.293945 3.7207031 5.5187988 5.519043 2.9145508 6.3666992 10.293701 4.1755371 6.3044434 5.519043 6.6972656 10.293945 3.7207031 6.6972656 6.4284668 6.6972656 3.7207031 3.7207031 6.4284668 4.5268555 4.1755371 6.6972656 6.6972656 6.3664551 6.3044434 3.7207031 6.5939941 6.4284668 6.6972656 2.9145508 5.519043 3.7207031 6.59375 2.9145508 6.6972656 5.519043 3.7207031 6.3666992 6.59375 2.9145508 3.7207031 6.59375 6.4287109 5.519043 5.519043 6.3041992 3.8447266 3.7207031 6.5942383 6.6972656 6.3662109 10.293945 3.7207031 6.3666992 6.59375 6.6972656 2.9145508 5.519043 3.7207031 4.815918 6.6972656 4.1757812 3.7207031 3.7207031 6.3041992 4.5268555 4.1757812 6.6972656 4.5268555 4.815918 3.7207031 5.519043 6.6972656 10.293945 3.7207031 10.293945 6.3666992 4.5263672 2.9145508 3.8447266 3.7207031 5.519043 6.4287109 2.9145508 6.3666992 5.519043 6.59375 6.6972656 6.3041992 6.3666992 6.59375 6.6972656 6.5942383 3.7207031 4.175293 6.3046875 3.7202148 2.9145508 2.9145508 4.1757812 6.3041992 4.5268555 6.3666992 5.519043 3.7207031 6.3046875 4.175293 3.7207031 6.2631836 2.9145508 4.5268555 4.175293 6.6972656 4.175293 6.3046875 5.519043 3.7207031 6.59375 6.4287109 5.519043 5.519043 6.3041992 3.8447266 3.7207031 2.9145508 2.9145508 4.1757812 6.3041992 4.5268555 2.9145508 5.519043 3.7207031 6.3666992 6.59375 2.9145508 4.175293 6.6972656 10.293945 3.7207031 6.3666992 6.59375 3.7207031 4.175293 6.3046875 3.7207031 4.175293 6.3666992 6.6972656 6.59375 6.6972656 6.3666992 10.293945 3.7207031 6.2631836 6.3662109 6.59375 6.6972656 10.293945 3.7207031 4.1757812 6.3041992 6.6972656 4.1757812 6.3662109 6.2631836 2.9145508 3.8447266 3.7207031 7.2348633 6.3041992 6.6972656 2.9145508 4.1757812 6.6967773 6.6972656 6.5942383 6.3041992 4.5268555 3.7207031 2.9145508 6.6972656 3.7207031 10.293945 6.3666992 6.6972656 6.6972656 5.519043 3.7207031 10.293945 6.3041992 6.3666992 5.519043 3.7207031 6.6972656 6.4282227 6.2631836 6.6972656 10.293945 3.7207031 6.59375 6.6972656 6.4287109 6.59375 6.5942383 6.3662109 10.293945 3.7207031 6.3046875 4.175293 3.7207031 6.3666992 6.59375 10.293945 2.9145508 4.5268555 6.3662109 6.6972656 6.5942383 6.6972656 10.293945 3.7207031 6.387207 6.4282227 2.9145508 2.9145508 6.59375 6.6972656 2.9145508 2.9145508 2.9145508 3.7207031 6.4287109 6.59375 6.6972656 5.519043 3.7207031 4.8164062 2.9145508 6.59375 3.7207031 6.3046875 6.6972656 2.9145508 10.293457 3.7207031 6.6972656 6.4287109 10.293945 6.3046875 6.6972656 2.9145508 2.9145508 6.59375 4.5268555 6.4282227 3.7207031 2.9145508 6.6972656 6.5942383 2.9145508 4.175293 6.6972656 10.293945 3.7207031 6.3041992 5.519043 4.1757812 4.815918 3.7207031 6.5942383 6.6972656 6.4282227 6.59375 3.7207031 6.6972656 6.3046875 3.7207031 2.9145508 6.6972656 3.7207031 4.175293 6.3046875 6.6972656 6.3041992 6.5942383 4.5268555 2.9145508 5.519043 3.7207031 6.59375 2.9145508 6.6972656 4.175293 2.9145508 6.6972656 5.519043 3.7207031 2.9145508 6.3666992 4.175293 6.3046875 4.5263672 6.3046875 4.175293 3.8447266 3.7207031 5.519043 6.3046875 6.59375 3.7207031 10.293945 6.4287109 4.5268555 4.175293 6.3666992 2.9145508 2.9145508 6.59375 6.6972656 5.519043 3.7207031 10.293945 6.3662109 4.1757812 6.6972656 4.5268555 6.3041992 3.7207031 6.5942383 4.5263672 6.4287109 6.59375 6.3046875 5.519043 5.519043 6.3046875 4.175293 3.8447266 3.7207031 5.519043 6.6972656 10.293945 6.59375 4.175293 2.9145508 6.5942383 6.6972656 5.5185547 3.7207031 10.293945 6.3046875 2.9145508 5.519043 3.7207031 2.9145508 10.293945 6.59375 4.5268555 2.9145508 10.293945 6.3046875 6.6972656 6.59375 6.6972656 10.293945 3.7207031 6.3041992 4.1757812 3.7207031 6.59375 6.6972656 6.59375 2.9145508 2.9145508 5.519043 6.3666992 6.6972656 6.59375 6.6972656 10.293945 3.7207031 5.519043 6.6972656 4.5268555 6.3662109 6.2631836 2.9145508 3.8447266 3.7207031 7.2348633 6.3046875 4.5263672 6.6972656 10.293945 3.7207031 6.6972656 6.3046875 3.7207031 2.9145508 2.9145508 6.59375 6.3046875 4.5268555 3.7207031 2.9145508 5.519043 4.175293 6.3046875 3.7207031 6.59375 6.3666992 4.5263672 6.3046875 6.6972656 4.175293 6.3046875 6.4287109 4.5268555 6.59375 6.3666992 4.175293 6.6972656 5.519043 3.7207031 6.2631836 6.3041992 2.9145508 6.6972656 4.1757812 2.9145508 3.7202148 6.5942383 6.6972656 6.59375 2.9145508 2.9145508 2.9145508 6.6972656 5.519043 3.7207031 5.519043 2.9145508 6.6972656 6.3041992 3.7207031 4.1757812 6.6972656 4.175293 6.3046875 2.9145508 6.3662109 3.8447266 3.7207031 6.3666992 6.6972656 4.175293 3.7207031 6.59375 6.3666992 4.175293 4.5268555 6.4287109 5.519043 2.9145508 6.6972656 2.9145508 6.4282227 3.7207031 6.3666992 2.9145508 2.9145508 6.59375 6.6972656 6.4287109 3.7207031 6.3041992 5.519043 5.519043 6.3046875 3.7207031 6.2631836 2.9145508 6.59375 6.3046875 4.5268555 6.3041992 4.1757812 6.6972656 4.5268555 3.7207031 4.175293 6.3041992 3.7207031 6.5942383 6.3662109 4.1757812 4.5268555 6.4282227 6.6972656 6.6972656 10.293945 6.59375 4.5268555 6.3666992 6.3046875 5.519043 6.3041992 6.6972656 4.175293 6.3046875 10.293945 3.7207031 6.59375 6.3046875 2.9145508 6.3046875 6.59375 2.9145508 10.293945 6.6972656 5.519043 3.8447266 3.7207031 2.9145508 6.6972656 3.7207031 5.5185547 6.6972656 2.9145508 6.6972656 5.519043 3.7207031 6.6972656 6.4287109 10.293945 6.3041992 6.6972656 3.7207031 6.3666992 6.6972656 6.59375 6.3666992 5.519043 6.6972656 2.9145508 6.6972656 5.519043 3.7207031 6.59375 4.5268555 6.4287109 6.59375 2.9145508 4.5268555 6.3041992 4.1757812 3.8447266 3.7207031 6.59375 6.6972656 6.4287109 3.8447266 3.7202148 6.6972656 4.1757812 3.7207031 6.3041992 6.5942383 6.4282227 3.7207031 6.3666992 10.293945 6.4282227 4.5268555 2.9145508 5.519043 3.7207031 6.6972656 6.6972656 6.6972656 5.519043 3.7207031 6.3046875 4.175293 6.4287109 6.59375 5.519043 6.3046875 4.5268555 6.2626953 6.3666992 6.6972656 4.175293 2.9145508 6.3666992 6.3046875 3.7207031 2.9145508 6.6972656 3.7207031 4.175293 6.3041992 3.7207031 10.293945 6.3046875 6.3666992 6.3041992 3.7207031 10.293945 2.9145508 6.6972656 2.9145508 5.519043 4.175293 4.5268555 6.4287109 3.7207031 6.3046875 4.175293 3.7207031 6.6972656 6.6972656 6.6972656 5.519043 2.9145508 6.4282227 3.8447266 3.7207031 5.519043 2.9145508 5.519043 3.7207031 4.175293 6.6972656 3.7207031 6.3666992 6.59375 3.7207031 5.519043 4.175293 6.6972656 6.5942383 2.9145508 6.3662109 3.8447266 3.7207031 6.3046875 4.175293 3.7207031 10.293945 6.6972656 2.9145508 4.175293 2.9145508 6.5942383 2.9145508 2.9145508 5.519043 6.3041992 10.293945 3.7207031 6.59375 6.4287109 5.519043 4.175293 4.5268555 2.9145508 6.6972656 6.3666992 10.293945 4.175293 6.6972656 6.3666992 10.293945 3.7207031 5.5185547 6.4287109 5.519043 2.9145508 6.4287109 3.7207031 5.519043 6.3662109 6.3046875 6.59375 6.3046875 3.7207031 6.6972656 4.175293 6.3046875 4.5268555 6.3041992 4.5268555 2.9145508 5.519043 3.8447266 3.7207031 6.5317383 6.3666992 6.6972656 4.175293 6.3666992 3.7207031 6.3046875 5.5185547 4.1757812 3.7207031 6.3041992 6.6972656 2.9145508 10.293945 3.7207031 2.9145508 6.6972656 3.7207031 6.3046875 6.4282227 3.7207031 6.6972656 6.4287109 6.6972656 3.7207031 10.293945 6.4282227 6.5942383 6.4282227 3.7207031 5.519043 5.519043 2.9145508 6.3046875 6.6972656 4.175293 2.9145508 6.3666992 3.8447266 3.7207031 5.519043 6.3041992 6.5942383 3.7207031 5.519043 6.4282227 6.59375 2.9145508 6.3666992 3.8447266 3.7207031 6.6972656 4.175293 3.7207031 5.519043 6.6972656 10.293945 6.6972656 6.6972656 6.6972656 5.519043 3.7207031 6.2631836 2.9145508 6.59375 6.3046875 4.5268555 2.9145508 5.519043 3.8447266 3.7207031 6.6972656 6.4282227 6.6972656 3.7207031 10.293945 6.3666992 6.59375 2.9145508 5.519043 3.7207031 6.4287109 10.293945 6.6972656 6.3046875 5.5185547 3.7207031 6.2626953 6.3046875 4.1757812 6.3046875 4.5263672 6.6972656 10.293945 3.7207031 2.9150391 2.9140625 6.59375 4.5273438 6.4287109 5.5185547 3.8447266 3.7207031 6.59375 6.6972656 6.3662109 10.293945 3.7207031 6.6972656 6.3671875 4.1748047 6.6972656 4.5273438 6.3662109 6.3046875 3.7207031 2.9140625 6.5947266 5.5185547 2.9150391 6.6972656 5.5185547 3.7207031 6.4287109 5.5185547 5.5195312 6.6972656 2.9140625 4.1757812 6.3662109 5.5195312 3.7207031 4.5263672 6.3046875 5.5185547 6.2636719 2.9140625 6.5947266 2.9140625 5.5195312 5.5185547 6.3046875 3.7207031 6.2626953 2.9150391 6.59375 6.3046875 6.3662109 4.5273438 2.9140625 5.5195312 3.8447266 3.7207031 7.3583984 6.3046875 5.5185547 3.7207031 6.6972656 6.6972656 6.3662109 3.7207031 2.9150391 6.6972656 3.7207031 6.3046875 6.4277344 3.7207031 10.293945 2.9150391 4.5263672 6.3671875 6.6972656 6.59375 6.3662109 3.7207031 6.3046875 5.5185547 4.1757812 3.8447266 3.7207031 6.59375 6.6972656 6.4287109 6.59375 3.7207031 5.5195312 6.6972656 10.293945 3.7207031 6.6962891 6.4287109 5.5195312 4.1748047 4.5273438 6.3662109 4.1757812 2.9140625 3.7207031 2.9150391 2.9140625 6.6972656 6.59375 6.6972656 6.3671875 3.7207031 2.9140625 6.4287109 6.59375 6.6972656 6.3662109 4.1757812 6.6972656 4.5273438 3.8447266 3.7207031 6.6972656 6.4277344 6.6972656 3.7207031 10.293945 2.9150391 6.6972656 6.6972656 5.5185547 3.7207031 6.3671875 6.59375 3.7207031 6.3037109 6.6972656 10.293945 3.7207031 5.5195312 6.4287109 6.59375 6.6972656 6.4287109 5.5185547 5.5195312 6.3037109 6.6972656 6.5947266 6.6972656 10.292969 3.7207031 6.4287109 6.59375 6.6972656 5.5195312 3.7207031 5.5185547 2.9150391 4.1757812 3.7197266 6.5947266 4.5263672 6.3662109 6.3046875 5.5195312 6.3662109 3.7207031 6.3046875 4.1748047 3.7207031 4.5273438 6.4287109 10.293945 6.3662109 6.6972656 6.3662109 3.8447266 3.7207031 6.59375 6.6972656 6.3671875 10.293945 3.7207031 4.1748047 6.6972656 5.5195312 5.5185547 6.3671875 3.7207031 6.3037109 4.1757812 3.7207031 6.2636719 6.3037109 4.5273438 6.6972656 6.3662109 5.5195312 6.6972656 2.9140625 6.3662109 3.8447266">CUM semper Dux invictissime ob singulares virtutes et famam tui nominis tecolui et observavi, tum maxime ex quo frater meus tuis auspiciis in Bibienae obsidionemilitavit, quicquid enim tunc per te in eum collatum fuit, id autem multum fuissesaepe memorat benignitatem et humanitatem in se tuam referens, id totum adCrassos omnes pertinere arbitrati sumus, et quod unus tulit, id omnes tibi acceptumferimus, nec iam ei concedimus, ut magis tuus sit, quam nos omnes sumus. Sedfratres mei occasionem expectant causa tua non modo sua omnia, sed vitam etiamexponendi. Ego autem, qui pro virili mea, quonam pacto me tibi aperiam saepe cogito, cogitaboque, donec perfecero, nunc in voti mei spem venio aliquam. Nam, cum sciamtecum non fortunae bonis plus agi posse, quam aquis (ut fertur) cum mari, solasqueapud te literas et virtutes posse, literis aditum ad te tanquam vadum tentavi. Venitnuper in manus meas novum quoddam et admirandum Poliphili opus (id enim nomenlibro inditum est) quod ne in tenebris diutius lateret, sed mortalibus mature prodesset, sumptibus meis imprimendum et publicandum curavi. Verum ne liber iste parenteorbatus veluti pupillus sine tutela, aut patrocinio aliquo esse videretur te patronumpraesentem delegimus, in cuius nomen audaculus prodiret, quo, ut ego amoris nunc etobservantiae in te meae ministro et nuncio, sic tu ad studia, et multiplicem doctrinamtuam socio saepe utereris. Tanta est enim in eo non modo scientia, sed copia, ut cumhunc videris, non magis omnes veterum libros, quam naturae ipsius occultas resvidisse videaris. Res una in eo miranda est, quod cum nostrati lingua loquatur, non minus ad eum cognoscendum opus sit graeca et romana, quam tusca et vernacula.
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="167.66797"
+         y="262.88385"><tspan>
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="167.66797"
+         y="276.11298"><tspan
+           dx="0 7.4000416 6.4285278 6.5938911 2.9145412 4.1754436 6.3665142 6.2631645 2.9145432 4.1754417 3.7206917 6.3045044 6.6972427 2.9145393 10.293915 3.7206955 6.2631607 2.9145432 4.5268402 3.7206879 5.5190277 6.3665161 6.5938873 2.9145432 6.3045044 6.6972427 4.1754456 2.9145355 5.5190277 5.5190277 2.9145508 10.2939 6.6972504 5.5190277 3.8447113 3.7206879 5.5190277 2.9145355 3.7207031 2.9145355 4.1754456 6.3665161 3.7206879 2.9145355 6.4285278 6.5939026 6.6972351 6.3045044 4.5268402 6.3045044 4.1754456 6.6972351 4.5268555 3.8447266 3.7206726 6.6972351 6.6972656 6.3665161 10.293915 3.7206726 6.3045044 5.519043 5.5190125 6.3045044 3.7207031 6.2631531 2.9145508 6.3665161 10.293915 3.844696 3.7207031 6.3045044 4.1754456 3.7206726 4.5268555 6.3665161 4.1754456 2.9145508 6.4285278 6.6972351 6.3045044 10.293915 3.844696 3.7207031 6.5939026 6.6972351 6.3665161 3.7207031 6.6972351 6.6972351 2.9145508 2.9145508 6.6972351 5.5190125 3.8447266 3.7207031 6.5938721 6.6972656 2.9145508 6.6972046 3.7207031 6.3665161 2.9145508 2.9145508 6.5938721 6.6972656 2.9145508 6.5938721 3.7207031 6.5938721 2.9145508 5.519043 5.5189819 6.3045044 4.5268555 6.3045044 4.175415 3.7207031 6.2631836 6.3045044 6.6972656 2.9144897 6.3665161 10.293945 3.7207031 6.6972046 6.3045044 6.5939331 2.9145508 2.9144897 6.5939331 6.3045044 6.6972046 4.1754761 2.9145508 6.3665161 6.3045044 3.7207031 5.5189819 6.6972656 6.3665161 6.3045044 3.7207031 6.5938721 4.5268555 6.3665161 6.3045044 4.175415 6.3045044 6.6972656 6.5938721 6.3045044 4.5268555 6.3045044 3.7207031 6.5938721 6.4285278 5.519043 5.519043 6.3045044 4.175415 3.8447266 3.7207031 5.5189819 6.3045044 6.5939331 3.7206421 4.1754761 6.3665161 10.293884 6.3045044 6.6972656 3.7207031 2.9145508 4.175415 6.3665161 3.7207031 5.519043 6.3045044 3.7206421 4.1754761 6.3045044 10.293884 6.5939331 6.3045044 4.5267944 6.3665161 6.2631836 2.9145508 4.175415 3.8447266 3.7207031 6.6972656 4.175415 3.7207031 6.6972656 2.9145508 5.519043 2.9144287 3.8447266 3.7207031 6.5938721 6.6972656 2.9145508 3.7207031 6.5938721 6.4285889 5.519043 4.175415 2.9145508 5.519043 5.5189209 2.9145508 10.293945 6.6972656 5.519043 3.7207031 3.7207031 6.4284668 4.5268555 6.3044434 4.1755371 3.7207031 2.9145508 6.6971436 3.7207031 6.5938721 6.4285889 5.519043 4.175415 4.5268555 2.9145508 6.6972656 6.3664551 6.3045654 3.7207031 5.5189209 6.6972656 6.3665771 6.3044434 3.7207031 5.519043 6.3664551 5.519043 4.5268555 6.3665771 4.5268555 2.9145508 6.6971436 10.293945 3.7207031 6.5938721 6.3045654 6.6971436 6.3045654 4.175415 4.5268555 6.3665771 4.5267334 6.3045654 3.7207031 6.6972656 6.4284668 6.6972656 3.7207031 6.5938721 6.4285889 5.5189209 5.519043 6.3045654 4.175415 3.8447266 3.7207031 6.5938721 6.6972656 2.9145508 3.7207031 6.2630615 6.3045654 4.5268555 6.4284668 3.7207031 6.6972656 6.4285889 6.6971436 3.7207031 6.5938721 6.4285889 5.519043 4.175415 6.6972656 5.519043 3.7207031 6.3664551 5.519043 5.519043 6.3044434 6.5939941 6.3044434 4.5268555 6.3044434 4.1755371 3.7207031 6.6971436 6.4285889 6.6972656 3.7207031 6.5938721 6.3044434 5.519043 6.5938721 6.3045654 4.5268555 6.3664551 4.5268555 6.3045654 4.175415 3.7207031 4.175415 6.3664551 10.293945 6.3045654 6.6971436 3.8447266 3.7207031 4.4648438 2.9145508 2.9145508 6.6972656 6.5938721 3.7207031 6.3664551 5.519043 5.519043 6.3045654 6.5938721 2.9145508 4.175415 3.8447266 3.7207031 6.5938721 6.6972656 6.4284668 6.5938721 3.7207031 5.519043 2.9145508 3.7207031 6.5938721 6.6972656 6.3664551 6.3045654 3.7207031 4.5268555 6.3044434 5.519043 3.7207031 6.6972656 6.3664551 4.175415 6.6972656 4.5268555 6.3665771 3.7207031 5.5189209 6.6972656 6.3665771 3.7207031 6.5938721 2.9145508 3.7207031 3.7207031 2.9144287 5.519043 2.9145508 2.9145508 6.3045654 5.519043 3.7205811 6.3045654 5.519043 5.519043 6.3044434 6.6972656 4.175415 3.8448486 3.7207031 6.3664551 10.293945 6.4284668 6.3044434 6.6972656 2.9145508 4.1755371 6.3664551 4.175293 6.3046875 3.7207031 6.59375 6.6972656 6.3664551 6.5939941 6.3664551 10.293945 3.7207031 4.1755371 6.3664551 10.293945 6.59375 6.6972656 6.3666992 10.293701 3.7207031 4.5268555 6.3046875 5.5187988 6.3046875 4.5268555 6.3664551 4.1755371 6.4284668 3.7207031 6.4284668 10.293945 6.6972656 2.9145508 5.519043 3.7207031 6.59375 6.3044434 6.6972656 6.3046875 4.5268555 2.9145508 5.5187988 3.7207031 3.7207031 2.9145508 6.4287109 4.5266113 6.6972656 10.293945 3.7207031 6.2631836 2.9145508 4.5268555 2.9145508 6.5939941 6.3664551 4.5268555 2.9145508 6.4284668 3.7207031 6.4284668 4.5268555 6.3664551 4.1755371 2.9145508 6.4284668 6.6972656 6.3044434 3.7207031 5.519043 6.6972656 6.3664551 6.2631836 2.9145508 3.7207031 6.5939941 6.3044434 5.519043 2.9145508 6.3664551 4.5268555 6.3664551 6.6972656 4.1755371 6.6972656 4.5268555 3.8447266 3.7207031 6.3044434 4.1755371 3.720459 6.5939941 4.5268555 6.4284668 3.7207031 6.3044434 4.5268555 6.6972656 6.6972656 4.1755371 6.6972656 4.5268555 3.7207031 3.7207031 2.9145508 6.59375 6.6972656 4.5268555 2.9145508 5.519043 6.59375 6.6972656 6.3046875 3.7207031 6.3044434 4.175293 3.7207031 2.9145508 10.293945 6.3664551 6.5939941 2.9145508 6.6972656 2.9145508 6.59375 6.6972656 5.519043 3.7207031 6.4287109 5.5187988 6.6972656 2.9145508 2.9145508 5.519043 3.7207031 5.519043 6.6972656 6.5939941 2.9145508 6.3044434 5.519043 4.175293 6.3666992 6.3044434 3.7207031 6.59375 6.3666992 4.175293 6.3044434 6.6972656 4.1755371 3.7207031 6.3044434 4.1755371 3.7207031 4.5268555 6.3044434 3.7207031 6.3044434 4.5268555 6.6972656 6.6972656 4.1755371 6.6970215 4.5268555 3.8447266 3.7207031 7.9169922 6.4284668 6.6972656 3.7207031 6.6972656 2.9145508 5.5187988 3.7207031 4.5268555 6.3046875 5.519043 3.720459 5.519043 6.6972656 6.6972656 4.1755371 3.7207031 6.2631836 6.6972656 2.9145508 6.59375 6.4284668 3.7207031 6.3046875 6.2631836 6.59375 6.4284668 5.519043 2.9145508 4.1755371 6.3664551 6.3044434 3.7207031 6.3046875 4.175293 3.7207031 4.1755371 4.5268555 2.9145508 6.2631836 2.9145508 2.9143066 5.519043">Cogitavit enim vir sapientissimus, si ita loqueretur, unam esse viam, et rationem, qua nullus, quin aliquid disceret veniam negligentiae suae praetendere posset, sed tamen ita se temperavit, ut nisi, qui doctissimus foret in doctrinae suae sacrarium penetrare non posset, qui vero non doctus accederet non desperaret tamen. Illud accedit, quod si quae res natura sua difficiles essent, amoenitate quadam tamquam reserato omnis generis florum viridario oratione suavi declarantur, et proferuntur figurisque et imaginibus oculis subiectae patent et referuntur. Non hic res sunt vulgo expositae et triviis </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text952"
+       style="font-style:normal;font-weight:normal;font-size:10.58329999999999949px;line-height:0.1;font-family:sans-serif;white-space:pre;shape-inside:url(#rect954);mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-43.762599,-141.30575)"><tspan
+         x="215.38672"
+         y="204.72046"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Venitnuper in </tspan></tspan><tspan
+         x="215.38672"
+         y="207.70845"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">manus meas novum </tspan></tspan><tspan
+         x="215.38672"
+         y="210.69644"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">quoddam et </tspan></tspan><tspan
+         x="215.38672"
+         y="213.68443"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">admirandum </tspan></tspan><tspan
+         x="215.38672"
+         y="216.67242"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Poliphili opus </tspan></tspan><tspan
+         x="215.38672"
+         y="219.66042"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">(id </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">enim </tspan></tspan><tspan
+         x="215.38672"
+         y="222.64841"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">nomenlibro </tspan></tspan><tspan
+         x="215.38672"
+         y="225.6364"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">inditum est) quod </tspan></tspan><tspan
+         x="215.38672"
+         y="228.62439"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ne in tenebris </tspan></tspan><tspan
+         x="215.38672"
+         y="231.61238"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">diutius lateret, </tspan></tspan><tspan
+         x="215.38672"
+         y="234.60037"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">sed mortalibus </tspan></tspan><tspan
+         x="215.38672"
+         y="237.58836"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">mature prodesset, </tspan></tspan><tspan
+         x="215.38672"
+         y="240.57635"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">sumptibus meis </tspan></tspan><tspan
+         x="215.38672"
+         y="243.56435"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">imprimendum et </tspan></tspan><tspan
+         x="215.38672"
+         y="246.55234"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">publicandum </tspan></tspan><tspan
+         x="215.38672"
+         y="249.54033"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">curavi. Verum ne </tspan></tspan><tspan
+         x="215.38672"
+         y="252.52832"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">liber iste </tspan></tspan><tspan
+         x="215.38672"
+         y="255.51631"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">parenteorbatus </tspan></tspan><tspan
+         x="215.38672"
+         y="258.5043"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">veluti pupillus </tspan></tspan><tspan
+         x="215.38672"
+         y="261.49231"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">sine tutela, aut </tspan></tspan><tspan
+         style="visibility:hidden"
+         x="215.38672"
+         y="266.40991"><tspan
+           dx="0 1.7253025 1.7253025 1.7253022 1.7253027 1.7253027 1.7253017 1.7253027 1.7253027 1.7253027 1.7253027 1.7253017 1.7253017 1.7253036 1.7253017 1.7253036 1.7253017 1.7253017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">patrocinio aliquo </tspan><tspan
+           dx="1.7253036 1.7253017 1.7253017 1.7253056 1.7253017 1.7253017 1.7253017 1.7253017 1.7253017 1.7253017 1.7253056 1.7253017 1.7253017 1.7253017 1.7253017 1.7253017 1.7253017 1.7253017"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">esse videretur te </tspan><tspan
+           dx="1.7253017 1.7253036 1.7252998 1.7253036 1.7253036 1.7253036 1.7253075 1.7252998 1.7252998 1.7252998 1.7253036 1.7253036 1.7252998 1.7253075 1.7252998 1.7252998 1.7252998 1.7253036 1.7253075"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">patronumpraesentem </tspan><tspan
+           dx="1.7252998 1.7253036 1.7253036 1.725296 1.725296 1.7253036 1.7253036 1.7253036 1.7253036 1.7253036 1.725296 1.725296 1.7253036 1.7253036"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">delegimus, in </tspan><tspan
+           dx="1.7253036 1.7253036 1.7253036 1.725296 1.725296 1.7253036 1.725296 1.7253036 1.725296 1.7253036 1.725296 1.7253113"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">cuius nomen </tspan><tspan
+           dx="1.7253036 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">audaculus </tspan><tspan
+           dx="1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">prodiret, quo, ut </tspan><tspan
+           dx="1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ego amoris nunc </tspan><tspan
+           dx="1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">etobservantiae in </tspan><tspan
+           dx="1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.725296 1.7253113"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">te meae ministro </tspan><tspan
+           dx="1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">et nuncio, sic tu </tspan><tspan
+           dx="1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252502 1.7253113 1.7253113 1.7252502 1.7253113 1.7252808 1.7252502 1.7253113 1.7252808 1.7253113 1.7253113 1.7253418 1.7253113 1.7253113 1.7253418 1.7253113 1.7252808 1.7253418 1.7253113 1.7252808 1.7253418 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7252808 1.7252808 1.7253113 1.7252808 1.7252808 1.7253113 1.7253418 1.7252502 1.7253113 1.7253418 1.7252502 1.7253113 1.7253418 1.7253113 1.7252808 1.7253418 1.7253113 1.7252808 1.7253418 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7252808 1.7252808 1.7253113 1.7252808 1.7252808 1.7253113 1.7253418 1.7252502 1.7253113 1.7253418 1.7252502 1.7253113 1.7253418 1.7253113 1.7252808 1.7253418 1.7253113 1.7252808 1.7253418 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7252808 1.7252808 1.7253113 1.7252808 1.7252808 1.7253113 1.7253418 1.7252502 1.7253113 1.7253418 1.7252502 1.7253113 1.7253418 1.7252502 1.7253113 1.7253418 1.7253113 1.7252808 1.7253418 1.7253113 1.7252808 1.7253418 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7252808 1.7252808 1.7253113 1.7252808 1.7252808 1.7253113 1.7253418 1.7252502 1.7253113 1.7253418 1.7252502 1.7253113 1.7253418 1.7253113 1.7252808 1.7253418 1.7253113 1.7252808 1.7253418 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7252808 1.7252808 1.7253113 1.7252808 1.7252808 1.7253113 1.7253418 1.7252502 1.7253113 1.7253418 1.7252502 1.7253113 1.7253113 1.7252502 1.7253113 1.7253113 1.7252502 1.7253113 1.7253113 1.7252502 1.7253113 1.7253113 1.7252502 1.7253113 1.7253113 1.7253723 1.7252502 1.7253113 1.7253723 1.7252502 1.7253113 1.7253723 1.7252502 1.7253113 1.7253723 1.7252502 1.7253113 1.7253723 1.7252502 1.7253113 1.7253113 1.7252502 1.7253113 1.7253113 1.7252502 1.7253113 1.7253113 1.7252502 1.7253113 1.7253113 1.7252502 1.7253113 1.7253113 1.7253723 1.7252502 1.7253113 1.7253723 1.7252502 1.7253113 1.7253723 1.7252502 1.7253113 1.7253723 1.7252502 1.7253113 1.7253723 1.7252502 1.7253113 1.7253723 1.7252502 1.7253113 1.7253113 1.7252502"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">ad studia, et multiplicem doctrinamtuam socio saepe utereris. Tanta est enim in eo non modo scientia, sed copia, ut cumhunc videris, non magis omnes veterum libros, quam naturae ipsius occultas resvidisse videaris. Res una in eo miranda est, quod cum nostrati lingua loquatur, non minus ad eum cognoscendum opus sit graeca et romana, quam tusca et vernacula.
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="215.38672"
+         y="269.39791"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="215.38672"
+         y="272.38591"><tspan
+           dx="0 1.7253025 1.7253025 1.7253022 1.7253027 1.7253027 1.7253017 1.7253027 1.7253027 1.7253027 1.7253027 1.7253017 1.7253017 1.7253036 1.7253017 1.7253036 1.7253017 1.7253017 1.7253036 1.7253017 1.7253036 1.7252998 1.7253036 1.7253036 1.7252998 1.7253036 1.7253036 1.7253036 1.7252998 1.7253036 1.7253036 1.7252998 1.7253036 1.7253036 1.7252998 1.7253036 1.7253036 1.7252998 1.7253036 1.7253036 1.7253036 1.7253036 1.725296 1.7253036 1.7253036 1.7253036 1.7253036 1.7253036 1.725296 1.7253036 1.7253036 1.7253036 1.7253036 1.7253036 1.7253036 1.725296 1.7253036 1.7253036 1.7253036 1.7253036 1.7253036 1.725296 1.7253036 1.7253036 1.7253036 1.7253036 1.7253036 1.7253036 1.725296 1.7253036 1.7253036 1.7253036 1.7253036 1.7253036 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.7253113 1.725296 1.725296 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7253113 1.7252808 1.7253113 1.7253113 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 0 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 0 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 0 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7252808 1.7252808 1.7253418 1.7253418 1.7252197 1.7253418 1.7253418 1.7252197 1.7253418"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Cogitavit enim vir sapientissimus, si ita loqueretur, unam esse viam, et rationem, qua nullus, quin aliquid disceret veniam negligentiae suae praetendere posset, sed tamen ita se temperavit, ut nisi, qui doctissimus foret in doctrinae suae sacrarium penetrare non posset, qui vero non doctus accederet non desperaret tamen. Illud accedit, quod si quae res natura sua difficiles essent, amoenitate quadam tamquam reserato omnis generis florum viridario oratione suavi declarantur, et proferuntur figurisque et imaginibus oculis subiectae patent et referuntur. Non hic res sunt vulgo expositae et triviis </tspan></tspan></text>
+  </g>
+</svg>

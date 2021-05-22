@@ -5,11 +5,11 @@ import Layout from '../components/layout'
 export default function Home() {
     return <Layout>
         <h1>
-            Hypnerotomachia Poliphili
+            &nbsp;
         </h1>
         <span>ou</span>
         <h2>
-            Le songe de poliphile
+            «&nbsp;le songe de poliphile&nbsp;»
         </h2>
 
         <p>
@@ -17,7 +17,7 @@ export default function Home() {
         </p>
 
         <p>
-            <Link href="/book">lire</Link>
+            <Link href="/toc">table des matières</Link>
         </p>
     </Layout>
 }
