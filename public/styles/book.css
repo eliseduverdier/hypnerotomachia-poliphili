@@ -9,33 +9,5 @@
     /* column-count: 2; */
     margin-left: 100px;
     margin-right: 100px;
-}
-
-/***** fun *****/
-.shadow {
-    position:absolute;
-    opacity: 5;
-    margin: 0 auto;
-}
-.shadow001 {
-    position: absolute;
-    top:-10px; 
-    left: 25%;
-    width: 800px;
-    height: 800px;
-    background: radial-gradient(circle, 
-        rgba(255,216,0,1) 0%, 
-        rgba(16, 197, 200, 0) 49%
-    );
-}
-
-.shadow002 {
-    top:-50px; 
-    left: 40%;
-    width: 800px;
-    height: 800px;
-    background: radial-gradient(circle, 
-        rgb(77, 176, 176, .8) 0%, 
-        rgba(212, 235, 11, 0) 49%
-    );
+    /* TODO skew */
 }

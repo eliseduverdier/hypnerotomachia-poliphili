@@ -6,7 +6,7 @@
     --text-secondary: white;
     /* COLORS */
     --color-light: white;
-    --color-dark: black;
+    --color-dark: rgb(0, 28, 12);
     --color-primary: #00cf88;
     --color-secondary: #dcff40;
   }
