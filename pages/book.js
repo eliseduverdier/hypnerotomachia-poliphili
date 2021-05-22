@@ -12,10 +12,11 @@ export async function getStaticProps() {
 }
 
 export default function book({bookPagesData}) {
-  return <Layout isBook>
+  //bookPagesData.sort()
+  return <Layout>
     <ul>
-      {bookPagesData.map( page => (
-        <li>
+      {bookPagesData.map( (page) => (
+        <li key={page.id}>
           <a href={`/book/${page.id}`}>
             [{page.id}]
           </a> 

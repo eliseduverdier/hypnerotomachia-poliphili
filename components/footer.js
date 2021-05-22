@@ -1,27 +1,32 @@
 import Link from "next/link"
 
-// TODO get current page and calculate pagination
+export default function Footer({isBook, currentPage}) {
 
-export default function Footer({isBook}) {
+    // TODO compute pagination elsewhere?
+    let prevPage = parseInt(currentPage) - 1
+    let nextPage = parseInt(currentPage) + 1
+    if (prevPage < 0) { prevPage = 0 }
+    else if (nextPage > 10) { nextPage = 10 }
+
     return (
       <footer>
-        {/*  {isBook ?( */}
+         {isBook ? (
         <>
-          <Link href="/book/000">
+          <Link href={`/book/${prevPage}`}>
             <a className="link"> &larr; </a>
           </Link>
-          &nbsp;[
+          &nbsp;
           <Link href="/book">
             <a className="link"> &equiv; </a>
           </Link>
-          ]&nbsp;
-          <Link href="/book/001">
+          &nbsp;
+          <Link href={`/book/${nextPage}`}>
             <a className="link"> &rarr; </a>
           </Link>
         </>
-        {/* ):(
+        ):(
             <Link href="/book/000"><a className="link">read</a></Link>
-        )} */}
+        )}
       </footer>
     );
 }

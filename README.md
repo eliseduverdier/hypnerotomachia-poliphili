@@ -2,9 +2,16 @@
 
 📖 One of the first work of printing,
 published in 1499 by **Alde Manuce** in Venise,
-re-edited today in Next.js.
+re-edited in Next.js.
 
 <img src="public/images/book/f001.jpg" width="400px">
+
+## how to use
+```
+npm install
+npm run dev
+```
+And go to localhost:3000
 
 ## sources
 

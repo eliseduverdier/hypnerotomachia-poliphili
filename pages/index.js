@@ -4,14 +4,10 @@ import Layout from '../components/layout'
 
 export default function Home() {
     return <Layout>
-        <div className="title">
-            <h1>
-                Hypnerotomachia Poliphili
-            </h1>
-        </div>
-
+        <h1>
+            Hypnerotomachia Poliphili
+        </h1>
         <span>ou</span>
-
         <h2>
             Le songe de poliphile
         </h2>
@@ -21,7 +17,7 @@ export default function Home() {
         </p>
 
         <p>
-            <Link href="/book/000">lire</Link>
+            <Link href="/book">lire</Link>
         </p>
     </Layout>
 }

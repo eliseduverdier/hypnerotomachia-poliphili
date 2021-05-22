@@ -4,7 +4,6 @@ import { useRouter } from 'next/router'
 
 import { getAllPagesIds, getPageData } from '../../lib/bookPages'
 
-
 export async function getStaticProps({ params }) {
   const pageData = getPageData(params.page)
   return {
@@ -19,7 +18,7 @@ export async function getStaticPaths() {
 
   return {
     paths,
-    fallback: true,
+    fallback: false,
   }
 }
 
@@ -30,7 +29,10 @@ export default function Page({ pageData }) {
     return <div className="loading">Loading…</div>
   }
 
-  return <Layout isBook>
+  return <Layout 
+            isBook 
+            currentPage = {pageData.id}
+         >
     <div dangerouslySetInnerHTML={{ __html: pageData.contents }} />
   </Layout>
 }

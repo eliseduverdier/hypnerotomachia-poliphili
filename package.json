@@ -9,6 +9,7 @@
     "export": "next export"
   },
   "dependencies": {
+    "mongodb": "^3.5.9",
     "less": "^4.1.1",
     "next": "^10.0.9",
     "path": "^0.12.7",
