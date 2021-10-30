@@ -1,27 +1,27 @@
 import Layout from '../components/layout'
 
-import { getBookPagesData } from '../lib/bookPages'
+import { getAllPagesIds, getBookPagesData } from '../lib/bookPages'
 
 export async function getStaticProps() {
-  const bookPagesData = getBookPagesData()
-  return {
-    props: {
-      bookPagesData
+    const ids = await getAllPagesIds()
+
+    return {
+        props: {
+            ids: ids.map(param => param.params)
+        }
     }
-  }
 }
 
-export default function book({bookPagesData}) {
-  //bookPagesData.sort()
-  return <Layout>
-    <ul>
-      {bookPagesData.map( (page) => (
-        <li key={page.id}>
-          <a href={`/book/${page.id}`}>
-            [{page.id}]
-          </a> 
-        </li> 
-      ))}
-    </ul>
-  </Layout>
+export default function book({ ids }) {
+    return <Layout>
+        <ul>
+            {ids.map((id) => (
+                <li key={id.page}>
+                    <a href={`/book/${id.page}`}>
+                        ↝ {id.page} ↯
+                    </a>
+                </li>
+            ))}
+        </ul>
+    </Layout>
 }
