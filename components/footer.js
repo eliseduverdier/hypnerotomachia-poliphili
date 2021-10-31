@@ -1,35 +1,36 @@
 import Link from "next/link"
 
-export default function Footer({ isBook, currentPage }) {
+export default function Footer({ isBook, currentPageId, allPageIds }) {
+    if (isBook) {
+        const pageIds = allPageIds.map(id => id.params.page)
 
-    // TODO compute pagination elsewhere?
+        const index = pageIds.indexOf(currentPageId)
+        console.log("=== current Page Index: ", index)
+        let prevPage = index == 0 ? -1 : pageIds[index - 1]
+        let nextPage = index == pageIds.length - 1 ? -1 : pageIds[index + 1]
 
-
-
-
-    let prevPage = parseInt(currentPage) - 1
-    let nextPage = parseInt(currentPage) + 1
-    if (prevPage < 0) { prevPage = 0 }
-    else if (nextPage > 10) { nextPage = 10 }
-
-    return (
-        <footer>
-            <div className="footer-shadow"></div>
-            <div className="footer-top">
-                {isBook ? (
-                    <>
-                        <Link href={`/book/${prevPage}`}>
-                            <a className="link"> &larr; </a>
-                        </Link>
-                        &nbsp;
-                        <Link href={`/book/${nextPage}`}>
-                            <a className="link"> &rarr; </a>
-                        </Link>
-                    </>
-                ) : (
-                    <Link href="/book/0"><a className="link">read</a></Link>
-                )}
-            </div>
-        </footer>
-    );
+        return (
+            <footer>
+                <div className="footer-top">
+                    <Link href={`/book/${prevPage}`}>
+                        <a className="link"> &larr; </a>
+                    </Link>
+                    &nbsp;
+                    <Link href="/toc"><a className="link">∀</a></Link>
+                    &nbsp;
+                    <Link href={`/book/${nextPage}`}>
+                        <a className="link"> &rarr; </a>
+                    </Link>
+                </div>
+            </footer>
+        );
+    } else {
+        return (
+            <footer>
+                <div className="footer-top">
+                    <Link href="/toc"><a className="link">read</a></Link>
+                </div>
+            </footer>
+        );
+    }
 }

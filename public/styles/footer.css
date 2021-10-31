@@ -6,20 +6,10 @@
     border: 2px solid var(--color-dark);
     bottom: 20px;
     right: 20px;
-    width: 80px;
+    width: 110px;
     height: 40px;
     text-align: center;
-}
-.footer-shadow {
-    position: fixed;
-    padding: 6px;
-    background: var(--color-primary);
-    border: 2px solid var(--color-dark);
-    bottom: 15px;
-    right: 15px;
-    width: 80px;
-    height: 40px;
-    text-align: center;
+    box-shadow: 5px 5px 0px -1px var(--color-primary), 5px 5px 0 1px var(--color-dark);
 }
 footer a {
     color: white;
