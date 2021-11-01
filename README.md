@@ -25,7 +25,7 @@ And go to localhost:3000
 * [Wikipedia](https://en.wikipedia.org/wiki/Hypnerotomachia_Poliphili)
 
 ## todo
-* Text in nosql database
-* TOC and pages displayed automatically 
-* Pagination
-* Install less
+* [x] Text in nosql database
+* [ ] TOC and pages displayed automatically
+* [ ] Pagination
+* [ ] Install less
