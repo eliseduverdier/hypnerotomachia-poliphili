@@ -5,7 +5,7 @@ export const siteTitle = 'Hypnerotomachia Poliphili'
 const CustomHead = () => {
     return <Head>
         <title>{siteTitle}</title>
-        <link rel="icon" href={`${process.env.BACKEND_URL}/images/favicon.png`} />
+        <link rel="icon" href={`/images/favicon.png`} />
     </Head>
 }
 

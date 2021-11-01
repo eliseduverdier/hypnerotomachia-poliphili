@@ -12,11 +12,11 @@ export default function Home() {
         </h2>
 
         <p>
-            <Link href={`${process.env.BACKEND_URL}/about`}>à propos ➫</Link>
+            <Link href={`/about`}>à propos ➫</Link>
         </p>
 
         <p>
-            <Link href={`${process.env.BACKEND_URL}/toc`}>table des matières ❡</Link>
+            <Link href={`/toc`}>table des matières ❡</Link>
         </p>
     </Layout>
 }

@@ -12,13 +12,13 @@ export default function Footer({ isBook, currentPageId, allPageIds }) {
         return (
             <footer>
                 <div className="footer-top">
-                    <Link href={`${process.env.BACKEND_URL}/book/${prevPage}`}>
+                    <Link href={`/book/${prevPage}`}>
                         <a className="link"> &larr; </a>
                     </Link>
                     &nbsp;
-                    <Link href={`${process.env.BACKEND_URL}/toc`}><a className="link">∀</a></Link>
+                    <Link href={`/toc`}><a className="link">∀</a></Link>
                     &nbsp;
-                    <Link href={`${process.env.BACKEND_URL}/book/${nextPage}`}>
+                    <Link href={`/book/${nextPage}`}>
                         <a className="link"> &rarr; </a>
                     </Link>
                 </div>
@@ -28,7 +28,7 @@ export default function Footer({ isBook, currentPageId, allPageIds }) {
         return (
             <footer>
                 <div className="footer-top">
-                    <Link href={`${process.env.BACKEND_URL}/toc`}><a className="link">read</a></Link>
+                    <Link href={`/toc`}><a className="link">read</a></Link>
                 </div>
             </footer>
         );

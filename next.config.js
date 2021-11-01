@@ -9,12 +9,10 @@ module.exports = {
 
         return config
     },
-    assetPrefix: 'hypnerotomachia-poliphili',
-    env: {
-        BACKEND_URL: 'hypnerotomachia-poliphili',
-    },
-    // assetPrefix: '/home/elise/w/perso/hypnerotomachia-poliphili/docs',
-    // env: {
-    //     BACKEND_URL: '/home/elise/w/perso/hypnerotomachia-poliphili/docs',
-    // },
+    // GitHub pages
+    basePath: '/hypnerotomachia-poliphili',
+    assetPrefix: '/hypnerotomachia-poliphili/',
+    // // local
+    //     basePath: '/home/elise/w/perso/hypnerotomachia-poliphili/docs',
+    //     assetPrefix: '/home/elise/w/perso/hypnerotomachia-poliphili/docs/',
 }
