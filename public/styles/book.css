@@ -1,6 +1,6 @@
 main {
-    transform: skew(0, 4deg);
-    width: 90%;
+    transform: skew(0, 2deg);
+    margin-top: 200px;
 }
 
 .first-page {
@@ -15,4 +15,17 @@ main {
     margin-left: 100px;
     margin-right: 100px;
     /* TODO skew */
+}
+
+main p.summary {
+    font-size: 1.2em;
+    color: var(--color-primary);
+    font-style: italic;
+}
+
+@media only screen and (max-width: 600px) {
+    main {
+        font-size: .8em;
+        line-height: 1.5em;
+    }
 }
