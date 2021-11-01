@@ -19,9 +19,9 @@ nav h1 a {
 }
 @media only screen and (max-width: 600px) {
     nav h1 {
-      width: 300px;
+        width: 300px;
     }
-  }
+}
 
 /* nav:hover div {
     transition: 10s;

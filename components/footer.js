@@ -2,7 +2,7 @@ import Link from "next/link"
 
 export default function Footer({ isBook, currentPageId, allPageIds }) {
     if (isBook) {
-        const pageIds = allPageIds.map(id => id.params.page)
+        const pageIds = allPageIds.map(id => id.params.id)
         const index = pageIds.indexOf(currentPageId)
         const prevPage = index == 0 ? -1 : pageIds[index - 1]
         const nextPage = index == pageIds.length - 1 ? -1 : pageIds[index + 1]

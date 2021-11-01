@@ -1,25 +1,25 @@
 import Link from "next/link"
 import Layout from '../components/layout'
 
-import { getAllPagesIds } from '../lib/bookPages'
+import { getAllPages } from '../lib/bookPages'
 
 export async function getStaticProps() {
-    const ids = await getAllPagesIds()
+    const pages = await getAllPages()
 
     return {
         props: {
-            ids: ids.map(param => param.params)
+            pages: pages.map(param => param.params)
         }
     }
 }
 
-export default function book({ ids }) {
+export default function book({ pages }) {
     return <Layout>
         <ul>
-            {ids.map((id) => (
-                <li key={id.page}>
-                    <Link href={`/book/${id.page}`}>
-                        <a>↝ {id.page} ↯</a>
+            {pages.map((page) => (
+                <li key={page.id}>
+                    <Link href={`/book/${page.id}`}>
+                        <a>{page.number} ↯ <div className="summary">{page.summary}</div> ↝ </a>
                     </Link>
                 </li>
             ))}
