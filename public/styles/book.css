@@ -1,6 +1,6 @@
 main {
-    transform: skew(0, 4deg);
-    width: 90%;
+    transform: skew(0, 2deg);
+    margin-top: 200px;
 }
 
 .first-page {

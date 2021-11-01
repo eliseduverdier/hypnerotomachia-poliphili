@@ -24,7 +24,7 @@ export const getStaticProps = async ({ params }) => {
     const pageData = await getPageData(params.page)
     const allPageIds = await getAllPagesIds(params.page)
 
-    const pageContent = pageData.contents.paragraph.text[0].plain_text
+    const pageContent = pageData.contents
 
     return {
         props: {
