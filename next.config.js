@@ -8,5 +8,9 @@ module.exports = {
         }
 
         return config
-    }
+    },
+    assetPrefix: '/hypnerotomachia-poliphili/',
+    env: {
+        BACKEND_URL: '/hypnerotomachia-poliphili',
+    },
 }

@@ -17,7 +17,7 @@ export default function book({ ids }) {
         <ul>
             {ids.map((id) => (
                 <li key={id.page}>
-                    <a href={`/book/${id.page}`}>
+                    <a href={`${process.env.BACKEND_URL}/book/${id.page}`}>
                         ↝ {id.page} ↯
                     </a>
                 </li>
