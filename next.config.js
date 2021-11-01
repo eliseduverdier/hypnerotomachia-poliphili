@@ -9,8 +9,12 @@ module.exports = {
 
         return config
     },
-    assetPrefix: '/hypnerotomachia-poliphili/',
+    assetPrefix: 'hypnerotomachia-poliphili',
     env: {
-        BACKEND_URL: '/hypnerotomachia-poliphili',
+        BACKEND_URL: 'hypnerotomachia-poliphili',
     },
+    // assetPrefix: '/home/elise/w/perso/hypnerotomachia-poliphili/docs',
+    // env: {
+    //     BACKEND_URL: '/home/elise/w/perso/hypnerotomachia-poliphili/docs',
+    // },
 }
