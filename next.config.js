@@ -9,10 +9,11 @@ module.exports = {
 
         return config
     },
-    // GitHub pages
+    trailingSlash: true,
+    //  GitHub pages
     basePath: '/hypnerotomachia-poliphili',
     assetPrefix: '/hypnerotomachia-poliphili/',
-    // // local
-    //     basePath: '/home/elise/w/perso/hypnerotomachia-poliphili/docs',
-    //     assetPrefix: '/home/elise/w/perso/hypnerotomachia-poliphili/docs/',
+    //  Local
+    // basePath: '/home/elise/w/perso/hypnerotomachia-poliphili/docs',
+    // assetPrefix: '/home/elise/w/perso/hypnerotomachia-poliphili/docs/',
 }
