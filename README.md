@@ -23,9 +23,3 @@ And go to localhost:3000
 * [Scanned book](http://architectura.cesr.univ-tours.fr/Traite/Images/LES1358Index.asp)
 * [Illustrations](https://gallica.bnf.fr/ark:/12148/btv1b2200005d)
 * [Wikipedia](https://en.wikipedia.org/wiki/Hypnerotomachia_Poliphili)
-
-## todo
-* [x] Text in nosql database
-* [ ] TOC and pages displayed automatically
-* [ ] Pagination
-* [ ] Install less
