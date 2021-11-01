@@ -1,0 +1,18 @@
+main {
+    transform: skew(0, 4deg);
+    width: 90%;
+}
+
+.first-page {
+    text-align: center;
+}
+
+.book {
+    font-style: italic;
+    text-align: justify;
+    text-align-last: center;
+    /* column-count: 2; */
+    margin-left: 100px;
+    margin-right: 100px;
+    /* TODO skew */
+}
