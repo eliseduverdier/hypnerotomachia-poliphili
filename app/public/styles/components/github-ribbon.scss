@@ -1,0 +1,12 @@
+#github-ribbon {
+  position: fixed;
+  left: -77px;
+  top: 47px;
+  z-index: 2;
+  width: 300px;
+  transform: rotate(-45deg);
+  font: italic normal 14px monospace;
+  background: var(--color-light);
+  border-top: 3px solid var(--color-primary);
+  border-bottom: 3px solid var(--color-primary);
+}
