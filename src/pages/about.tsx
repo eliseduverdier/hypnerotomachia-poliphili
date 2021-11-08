@@ -19,7 +19,7 @@ export default function about() {
             🖤️
         </p>
         <hr />
-        <p>⸽This website was realised:
+        <p>This website was realised:
             <ul>
                 <li>﹌ in <a href="https://nextjs.org/">Next.js</a></li>
                 <li>﹌ using the <a href="https://developers.notion.com/">Notion API</a> to store data</li>

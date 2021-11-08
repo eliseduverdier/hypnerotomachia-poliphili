@@ -1,23 +1,9 @@
 import Layout from '../../components/Layout'
-
 import { useRouter } from 'next/router'
-
 import { getAllPages, getPageData } from '../../lib/bookPages'
+import PageParams from "../../interfaces/PageParams"
+import PropsParams from "../../interfaces/PropsParams"
 
-interface PropsParams {
-  params: {id: string}
-};
-
-interface PageParams {
-  pageId: string,
-  pageContent: string,
-  pageSummary: string,
-  allPageIds: Array<{
-    params: {
-      id: string
-    }
-  }>,
-};
 
 export const getStaticPaths = async () => {
     const ids = await getAllPages()
@@ -27,6 +13,7 @@ export const getStaticPaths = async () => {
         fallback: false,
     };
 }
+
 export const getStaticProps = async ({ params }: PropsParams) => {
     const pageData = await getPageData(params.id)
     const allPageIds = await getAllPages()

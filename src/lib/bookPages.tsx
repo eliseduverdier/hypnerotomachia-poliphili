@@ -1,33 +1,8 @@
 const { Client } = require("@notionhq/client")
-// import { QueryDatabaseResponse } from "@notionhq/client/build/src/api-endpoints"
+import QueryDatabaseResponse from "../interfaces/QueryDatabaseResponse"
+import ApiPage from "../interfaces/ApiPage"
+import ApiPageData from "../interfaces/ApiPageData"
 
-interface ApiPage {
-  params: {
-    id: string,
-    number: string,
-    summary:string
-  }
-}
-interface QueryDatabaseResponse {
-  id: string,
-  properties: {
-    Name: {
-      title: Array<{
-        plain_text: string
-      }>
-    },
-    summary: {
-      rich_text: Array<{
-        text: {content: string}
-      }>
-    }
-  }
-}
-interface ApiPageData {
-  uuid: string,
-  summary: string
-  contents: string,
-}
 export async function getAllPages() : Promise<Array<ApiPage>>
 {
     const notion = new Client({

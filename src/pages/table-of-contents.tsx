@@ -1,22 +1,8 @@
-import GetStaticProps from "next"
+// import GetStaticProps, { GetStaticProps } from "next"
 import Link from "next/link"
 import Layout from '../components/Layout'
-
 import { getAllPages } from '../lib/bookPages'
-
-interface PageProps { // TODO nope
-    props: Array<{
-        pages: {
-            params: PageType
-        }
-    }>
-}
-
-interface PageType {
-    id: number,
-    number: string,
-    summary: string,
-}
+import PageType from "../interfaces/PageType"
 
 export const getStaticProps = async () => { // TODO add type : GetStaticProps
     const pages = await getAllPages()
