@@ -1,0 +1,51 @@
+/******************** variables *********/
+:root {
+  /* SIZES */
+  --text-size: 24px;
+  /* FONTS */
+  --text-primary: "Space Mono";
+  --text-secondary: "Garamond";
+  /* COLORS */
+  --color-light: #f4eed7;
+  --color-light--transparent: #f4eed755;
+  --color-dark: rgb(0, 28, 12);
+  --color-primary: #00cf88;
+  --color-secondary: #dcff40;
+}
+
+html,
+body,
+.container {
+  margin: 0;
+  width: 100%;
+  overflow: scroll;
+}
+
+body {
+  background: var(--color-light);
+  font-family: "Space Mono", monospace;
+  font-size: 24px;
+  line-height: 1.7em;
+  color: var(--color-dark);
+  text-align: center;
+  margin: 0;
+}
+
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/*********** layout *************/
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-style: italic;
+}
+main {
+  min-height: 100%;
+  margin: 200px 20px;
+}
