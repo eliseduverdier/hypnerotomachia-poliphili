@@ -1,30 +1,36 @@
 # Hypnerotomachia Poliphili
 
-📖 One of the first work of printing,
-published in 1499 by **Alde Manuce** in Venise,
-re-edited in Next.js.
+<p align=center>
+📖<br>
+One of the first work of printing,<br>
+published by Alde Manuce,<br>
+in 1499’s Venise,<br>
+re-edited today<br>
+in Next.js<br>
+⁎ ⁎ ⁎<br>
+⁎ ⁎<br>
+⁎
+</p>
 
-<img src="app/public/images/book/f001.jpg" width="400px">
+<p align=center>
+<a href="https://eliseduverdier.github.io/hypnerotomachia-poliphili/"><strong>Read here</strong></a>
+<br><br>
+<img src="app/public/images/garden.png" width="400px">
+</p>
 
-[Read online (static generated version)](https://eliseduverdier.github.io/hypnerotomachia-poliphili/)
-
-## how to use
-
--   Connect to vagrant and docker
-    -   `vagrant up --provision && vagrant ssh`
-    -   (will fail first time because docker containers are not yet installed, so run `docker-compose build`)
--   `dup` (alias for `docker-compose up -d`)
--   `cd app/`
--   start server (`dex` is alias of `docker exec`)
-    -   `dex web npm install`
-    -   `dex web npm run dev`
-
-And go to http://localhost:3000/hypnerotomachia-poliphili
+## tech stack
+* Next.js
+* Notion API
+```sh
+$ make start # for docker
+$ make install # first time
+$ make run # -> http://localhost:3000/hypnerotomachia-poliphili
+```
 
 ## sources
 
 -   [Wikipedia](https://en.wikipedia.org/wiki/Hypnerotomachia_Poliphili)
--   [Latin text](http://www.liberliber.it/mediateca/libri/c/colonna/hypnerotomachia_poliphili_etc/pdf/hypner_p.pdf)
 -   [French text](<https://fr.wikisource.org/wiki/Le_Songe_de_Poliphile_(%C3%A9d._Popelin,_1883)>)
+-   [Latin text](http://www.liberliber.it/mediateca/libri/c/colonna/hypnerotomachia_poliphili_etc/pdf/hypner_p.pdf)
 -   [Scanned book](http://architectura.cesr.univ-tours.fr/Traite/Images/LES1358Index.asp)
 -   [Illustrations](https://gallica.bnf.fr/ark:/12148/btv1b2200005d)
